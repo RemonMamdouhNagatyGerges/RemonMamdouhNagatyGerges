@@ -55,13 +55,6 @@ Cloud Infrastructure & DevOps Engineer with hands‑on experience in cloud opera
 
 ---
 
-## 📊 GitHub Stats 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RemonMamdouhNagatyGerges&show_icons=true&theme=gruvbox)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RemonMamdouhNagatyGerges&layout=compact&theme=gruvbox)
-
-
----
-
 ## 📫 Connect with Me 
 - GitHub: https://github.com/RemonMamdouhNagatyGerges
 - Email: remonmamdouhnagaty@gmail.com
