@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Remon Mamdouh Nagaty
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/remonmamdouhnagaty/)
 ### DevOps Engineer | Cloud | Automation | CI/CD | Infrastructure as Code
 
 I’m a DevOps Engineer passionate about building scalable infrastructure, automating everything, and delivering reliable systems through CI/CD, containers, and cloud technologies.
@@ -31,6 +32,5 @@ I’m a DevOps Engineer passionate about building scalable infrastructure, autom
 ---
 
 ## 📫 Connect with Me 
-- LinkedIn: https://www.linkedin.com/in/remonmamdouhnagaty/
 - GitHub: https://github.com/RemonMamdouhNagatyGerges
 - Email: remonmamdouhnagaty@gmail.com
