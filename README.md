@@ -56,8 +56,8 @@ Cloud Infrastructure & DevOps Engineer with hands‑on experience in cloud opera
 ---
 
 ## 📊 GitHub Stats 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=remonmamdouhnagatygerges&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=remonmamdouhnagatygerges&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RemonMamdouhNagatyGerges&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RemonMamdouhNagatyGerges&layout=compact&theme=dark)
 
 
 ---
