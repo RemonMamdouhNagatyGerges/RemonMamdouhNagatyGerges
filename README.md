@@ -30,6 +30,7 @@ I’m a DevOps Engineer passionate about building scalable infrastructure, autom
 
 ---
 
-## 📫 Connect with Me
-- **LinkedIn:** https://www.linkedin.com/in/remonmamdouhnagaty/ 
-- **Email:** remonmamdouhnagaty@gmail.com
+## 📫 Connect with Me 
+- LinkedIn: https://www.linkedin.com/in/remonmamdouhnagaty/
+- GitHub: https://github.com/RemonMamdouhNagatyGerges
+- Email: remonmamdouhnagaty@gmail.com
